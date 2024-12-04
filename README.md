@@ -70,5 +70,4 @@ Jika ingin menyimpan hasil gambar dengan wajah yang diberi kotak, gunakan kode b
 cv2.imwrite("hasil_deteksi.png", image)
 ```
 
-<img width="500"height="800" src="https://github.com/andika201/Tugas-UAS-/blob/main/Capture.PNG" alt="Hasil">
 ![Deteksi Wajah](https://github.com/andika201/Tugas-UAS-/blob/main/Capture.PNG)
