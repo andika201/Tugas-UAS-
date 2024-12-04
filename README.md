@@ -67,6 +67,6 @@ Program akan menampilkan gambar dengan kotak merah pada area wajah yang terdetek
 ## Catatan
 Jika ingin menyimpan hasil gambar dengan wajah yang diberi kotak, gunakan kode berikut:
 ```python
-cv2.imwrite("hasil_deteksi.png", image)```
+cv2.imwrite("hasil_deteksi.png", image)
 
-![Alt Text](https://github.com/andika201/Tugas-UAS-/blob/main/Capture.PNG)
+<img width="500"height="800" src="https://github.com/andika201/Tugas-UAS-/blob/main/Capture.PNG" alt="Hasil">
